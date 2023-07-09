@@ -1,5 +1,5 @@
-import * as THREE from 'https://cdn.skypack.dev/three@0.136.0/dist/three.module.js';
-import { OrbitControls } from 'https://cdn.skypack.dev/three@0.136.0/examples/jsm/controls/OrbitControls.js';
+import * as THREE from 'https://cdn.skypack.dev/three';
+import { OrbitControls } from 'https://cdn.skypack.dev/three/examples/jsm/controls/OrbitControls';
 
 console.clear();
 
